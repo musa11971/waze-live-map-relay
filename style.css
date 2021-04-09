@@ -45,3 +45,7 @@ h1, h2 {
     color: #ff0000;
     padding: 4px 0;
 }
+
+.credit {
+    font-size: 11px;
+}

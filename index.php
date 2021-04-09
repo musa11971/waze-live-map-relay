@@ -24,8 +24,10 @@
                     <li>Use Waze Live Map Relay as follows:</li>
                 </ol>
 
-                <div class="code">http://waze-live-map-relay.herokuapp.com?to=Amsterdam&key=<span>{API_KEY}</span></div>
+                <div class="code">https://waze-live-map-relay.herokuapp.com?to=Amsterdam&key=<span>{API_KEY}</span></div>
             </div>
+
+            <p class="credit">Created by <a href="https://www.waze.com/user/editor/mewsa" target="_blank">Mewsa</a></p>
         </main>
     </body>
 </html>
