@@ -1,0 +1,47 @@
+* {
+    font-family: Arial, serif;
+    color: #363636;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    margin: 40px auto;
+    border-left: 5px solid #33ccff;
+    padding: 10px;
+    background-color: #91e4ff;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+#instructions {
+    margin-top: 15px;
+}
+
+.code {
+    background-color: #363636;
+    color: #fff;
+    padding: 4px 10px;
+    border-radius: 2px;
+}
+
+.code span {
+    color: #bbb;
+}
+
+.error {
+    display: block;
+    text-align: center;
+    color: #ff0000;
+    padding: 4px 0;
+}
